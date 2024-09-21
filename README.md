@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Minha Despensa
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Sua cozinha, suas regras: Descubra receitas práticas com os ingredientes que você já tem em casa!**
 
-## Available Scripts
+## Sobre o Projeto
 
-In the project directory, you can run:
+"Minha Despensa" é uma aplicação web que ajuda você a encontrar receitas personalizadas com base nos ingredientes disponíveis em sua despensa. O objetivo do projeto é proporcionar praticidade e economia, permitindo que você prepare refeições com o que já tem em mãos, sem precisar sair de casa.
 
-### `npm start`
+## Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Busca de Receitas Personalizadas:** Insira os ingredientes que você tem em casa e receba sugestões de receitas que podem ser preparadas.
+- **Exploração de Novas Receitas:** Descubra novas receitas baseadas em seus ingredientes favoritos.
+- **Interface Simples e Intuitiva:** Um design moderno e minimalista para facilitar sua experiência.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologias Utilizadas
 
-### `npm test`
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend:**
+  - React.js
+  - HTML5
+  - CSS3 (SCSS)
+- **Backend:**
+  - Node.js
+  - Express.js
+- **Outros:**
+  - Webpack
+  - Babel
 
-### `npm run build`
+## Estrutura do Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+minha-despensa/
+│
+├── public/             # Arquivos públicos, como o HTML
+│   └── index.html
+│
+├── src/                # Código fonte do projeto
+│   ├── components/     # Componentes React
+│   │   ├── Footer.js
+│   │   ├── Introduction.js
+│   │   ├── RecipeDetails.js
+│   │   ├── RecipeResults.js
+│   │   └── SelectIngredients.js
+│   ├── images/         # Imagens usadas no projeto
+│   │   ├── Blob.png
+│   │   ├── bolo.webp
+│   │   ├── cesta-compra.webp
+│   │   ├── cupcake.webp
+│   │   ├── drink.webp
+│   │   ├── Frame.png
+│   │   ├── logo.webp
+│   │   ├── mulheres-cozinhando.webp
+│   │   └── Shape bg.png
+│   ├── receitas/       # Arquivos de receitas em JSON
+│   ├── styles/         # Estilos (SCSS)
+│   │   ├── App.scss
+│   │   ├── Footer.scss
+│   │   ├── Introduction.scss
+│   │   ├── RecipeDetails.scss
+│   │   ├── RecipeResults.scss
+│   │   └── SelectIngredients.scss
+│   ├── App.js          # Componente principal do React
+│   ├── App.test.js     # Testes do App
+│   ├── index.js        # Ponto de entrada do React
+│   └── reportWebVitals.js
+│
+├── .gitignore          # Arquivos ignorados pelo Git
+├── package-lock.json   # Controle de dependências
+├── package.json        # Configurações do npm e scripts
+├── README.md           # Documentação do projeto
+└── webpack.config.js   # Configuração do Webpack

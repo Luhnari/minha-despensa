@@ -1,0 +1,119 @@
+.recipe-details {
+    background-color: #fdeedd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    min-height: 100vh;
+    box-sizing: border-box;
+  
+    .recipe-header {
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      align-items: flex-start;
+  
+      h1 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #000;
+        margin-bottom: 1rem;
+        flex-basis: 50%;
+      }
+  
+      img {
+        width: 410px;
+        padding: 20px;
+        height: 272px;
+        object-fit: cover;
+        border-radius: 10px;
+      }
+  
+      .time-icon {
+        display: flex;
+        align-items: center;
+        font-size: 1.2rem;
+        color: #333;
+        font-weight: bold;
+        margin-top: 10px;
+        position: absolute;
+        top: 12%;
+        left: 1.5%;
+  
+        svg {
+          margin-right: 5px;
+        }
+      }
+    }
+  
+    .recipe-content {
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin-top: 2rem;
+  
+      .ingredients,
+      .instructions {
+        flex-basis: 45%;
+        font-size: 1.1rem;
+        color: #333;
+  
+        h2 {
+          font-size: 1.8rem;
+          font-weight: bold;
+          color: #000;
+          margin-bottom: 1rem;
+        }
+  
+        ul, p {
+          font-size: 1.1rem;
+          line-height: 1.5;
+          color: #333;
+        }
+      }
+    }
+  
+    .back-button {
+      margin-top: 2rem;
+      padding: 20px;
+  
+      button {
+        background-color: #F68B28;
+        color: #000000;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1rem;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  
+        &:hover {
+          background-color: #d77d1d;
+        }
+      }
+    }
+  
+    footer {
+      margin-top: auto;
+      background-color: #F68B28;
+      color: #000;
+      padding: 1rem 0;
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 10px;
+  
+      p {
+        margin: 0;
+        font-size: 0.9rem;
+      }
+  
+      a {
+        color: #000;
+        text-decoration: none;
+      }
+    }
+  }
+  

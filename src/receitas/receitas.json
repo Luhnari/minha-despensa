@@ -1,0 +1,222 @@
+{
+  "receitas": [
+    {
+      "nome": "Muffin de Maçã",
+      "tempo de preparo": "40 minutos",
+      "ingredientes": [
+        { "ingrediente": "farinha de trigo", "quantidade": "2 xícaras (chá)" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (chá)" },
+        { "ingrediente": "bicarbonato de sódio", "quantidade": "1/2 colher (chá)" },
+        { "ingrediente": "sal", "quantidade": "1/2 colher (chá)" },
+        { "ingrediente": "manteiga", "quantidade": "1/2 xícara (chá)" },
+        { "ingrediente": "açúcar", "quantidade": "1 xícara (chá)" },
+        { "ingrediente": "ovos", "quantidade": "2" },
+        { "ingrediente": "essência de baunilha", "quantidade": "1 e 1/2 colher (chá)" },
+        { "ingrediente": "maçãs", "quantidade": "3 xícaras (chá)" },
+        { "ingrediente": "açúcar marrom demerara", "quantidade": "1/3 xícara (chá)" },
+        { "ingrediente": "farinha de trigo", "quantidade": "1 colher (sopa)" },
+        { "ingrediente": "canela em pó", "quantidade": "1/4 colher (chá)" },
+        { "ingrediente": "manteiga", "quantidade": "1 colher (sopa)" }
+      ],
+      "modo de preparo": "Preaqueça o forno a 190ºC. Unte a forma para os muffins ou forre com as forminhas de papel. Descasque as maçãs. Pique duas maçãs e rale a terceira. Tempere com açúcar e especiarias. Misture os ingredientes secos. Bata a manteiga, os ovos e o açúcar até ficar cremoso. Adicione a maçã e a mistura da farinha. Asse por 20 minutos."
+    },
+    {
+      "nome": "Muffin de Chocolate",
+      "tempo de preparo": "45 minutos",
+      "ingredientes": [
+        { "ingrediente": "farinha de trigo", "quantidade": "1 e 3/4 xícara" },
+        { "ingrediente": "fermento em pó", "quantidade": "2 colheres de chá" },
+        { "ingrediente": "bicarbonato de sódio", "quantidade": "1/2 colher de chá" },
+        { "ingrediente": "cacau em pó", "quantidade": "2 colheres de sopa" },
+        { "ingrediente": "açúcar refinado", "quantidade": "3/4 xícara" },
+        { "ingrediente": "gotinhas de chocolate", "quantidade": "1 xícara" },
+        { "ingrediente": "leite", "quantidade": "1 xícara" },
+        { "ingrediente": "óleo vegetal", "quantidade": "1/3 xícara" },
+        { "ingrediente": "ovos", "quantidade": "1" },
+        { "ingrediente": "extrato de baunilha", "quantidade": "1 colher de chá" }
+      ],
+      "modo de preparo": "Pré-aqueça o forno a 200ºC. Misture os ingredientes secos. Misture os líquidos e junte aos secos. Asse por 20 a 30 minutos."
+    },
+    {
+      "nome": "Muffin de Atum",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "atum", "quantidade": "1 lata" },
+        { "ingrediente": "temperos", "quantidade": "a gosto" },
+        { "ingrediente": "polvilho azedo", "quantidade": "1 xícara" },
+        { "ingrediente": "maisena", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "ovos", "quantidade": "2" },
+        { "ingrediente": "queijo ralado", "quantidade": "a gosto" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (chá)" }
+      ],
+      "modo de preparo": "Misture todos os ingredientes e asse em forminhas untadas até dourar."
+    },
+    {
+      "nome": "Muffin de Ricota",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "ricota", "quantidade": "600 g" },
+        { "ingrediente": "pimenta-do-reino", "quantidade": "a gosto" },
+        { "ingrediente": "sal", "quantidade": "a gosto" },
+        { "ingrediente": "ovos", "quantidade": "5" },
+        { "ingrediente": "azeite", "quantidade": "6 colheres (sopa)" },
+        { "ingrediente": "queijo parmesão ralado", "quantidade": "3 colheres (sopa)" },
+        { "ingrediente": "amido de milho", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "farinha de linhaça", "quantidade": "1 colher (sopa)" },
+        { "ingrediente": "leite", "quantidade": "1 e 1/2 xícara (chá)" },
+        { "ingrediente": "atum", "quantidade": "1 lata" },
+        { "ingrediente": "fermento em pó", "quantidade": "1/2 colher (sopa)" }
+      ],
+      "modo de preparo": "Misture os ingredientes e asse em forminhas de papel ou untadas até dourar."
+    },
+    {
+      "nome": "Vitamina de Banana",
+      "tempo de preparo": "5 minutos",
+      "ingredientes": [
+        { "ingrediente": "leite", "quantidade": "700 ml" },
+        { "ingrediente": "banana", "quantidade": "3 grandes" },
+        { "ingrediente": "leite condensado", "quantidade": "1/2 lata" }
+      ],
+      "modo de preparo": "Bater os ingredientes no liquidificador e servir."
+    },
+    {
+      "nome": "Bolo de Cenoura",
+      "tempo de preparo": "40 minutos",
+      "ingredientes": [
+        { "ingrediente": "óleo", "quantidade": "1/2 xícara (chá)" },
+        { "ingrediente": "cenouras", "quantidade": "3 médias" },
+        { "ingrediente": "ovos", "quantidade": "4" },
+        { "ingrediente": "açúcar", "quantidade": "2 xícaras (chá)" },
+        { "ingrediente": "farinha de trigo", "quantidade": "2 e 1/2 xícaras (chá)" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (sopa)" }
+      ],
+      "modo de preparo": "Bater os ingredientes no liquidificador, exceto a farinha e o fermento. Misture a farinha e o fermento manualmente e asse a 180ºC por 40 minutos."
+    },
+    {
+      "nome": "Bolo de Fubá",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "ovos", "quantidade": "3" },
+        { "ingrediente": "açúcar", "quantidade": "2 xícaras (chá)" },
+        { "ingrediente": "fubá", "quantidade": "2 xícaras (chá)" },
+        { "ingrediente": "farinha de trigo", "quantidade": "3 colheres (sopa)" },
+        { "ingrediente": "óleo", "quantidade": "1/2 copo (americano)" },
+        { "ingrediente": "leite", "quantidade": "1 copo (americano)" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (sopa)" }
+      ],
+      "modo de preparo": "Bata todos os ingredientes no liquidificador e asse em forno preaquecido por 40 minutos."
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "tempo de preparo": "1h10min",
+      "ingredientes": [
+        { "ingrediente": "cação ou garoupa", "quantidade": "700 g" },
+        { "ingrediente": "limão", "quantidade": "suco de 1" },
+        { "ingrediente": "cebola", "quantidade": "1 grande" },
+        { "ingrediente": "pimentão vermelho", "quantidade": "1" },
+        { "ingrediente": "pimentão verde", "quantidade": "1" },
+        { "ingrediente": "tomates", "quantidade": "2" },
+        { "ingrediente": "coentro", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "leite de coco", "quantidade": "200 ml" },
+        { "ingrediente": "azeite de dendê", "quantidade": "1 colher (sopa)" },
+        { "ingrediente": "caldo de camarão", "quantidade": "2 tabletes" }
+      ],
+      "modo de preparo": "Marine o peixe no suco de limão por 1 hora. Cozinhe o peixe com os demais ingredientes em fogo baixo até que esteja cozido."
+    },
+    {
+      "nome": "Rocambole de Carne Moída",
+      "tempo de preparo": "50 minutos",
+      "ingredientes": [
+        { "ingrediente": "carne moída", "quantidade": "1/2 kg" },
+        { "ingrediente": "sopa de cebola", "quantidade": "1 pacote" },
+        { "ingrediente": "presunto", "quantidade": "a gosto" },
+        { "ingrediente": "queijo", "quantidade": "a gosto" },
+        { "ingrediente": "tempero verde", "quantidade": "a gosto" },
+        { "ingrediente": "sal", "quantidade": "a gosto" }
+      ],
+      "modo de preparo": "Tempere a carne com os ingredientes, recheie com presunto e queijo e asse em formato de rocambole."
+    },
+    {
+      "nome": "Fricassê de Frango",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "creme de leite", "quantidade": "1 lata" },
+        { "ingrediente": "milho verde", "quantidade": "1 lata" },
+        { "ingrediente": "requeijão", "quantidade": "1 copo" },
+        { "ingrediente": "azeitona", "quantidade": "100 g" },
+        { "ingrediente": "frango desfiado", "quantidade": "2 peitos" },
+        { "ingrediente": "mussarela", "quantidade": "200 g" },
+        { "ingrediente": "batata palha", "quantidade": "100 g" },
+        { "ingrediente": "água", "quantidade": "1 xícara" },
+        { "ingrediente": "sal", "quantidade": "1 pitada" }
+      ],
+      "modo de preparo": "Bata os ingredientes no liquidificador e cozinhe o frango desfiado. Asse com mussarela e batata palha até borbulhar."
+    },
+    {
+      "nome": "Panqueca de Carne Moída",
+      "tempo de preparo": "40 minutos",
+      "ingredientes": [
+        { "ingrediente": "farinha de trigo", "quantidade": "1 e 1/2 xícara (chá)" },
+        { "ingrediente": "leite", "quantidade": "1 xícara (chá)" },
+        { "ingrediente": "ovos", "quantidade": "2" },
+        { "ingrediente": "óleo", "quantidade": "4 colheres (sopa)" },
+        { "ingrediente": "sal", "quantidade": "a gosto" },
+        { "ingrediente": "carne moída", "quantidade": "300 g" },
+        { "ingrediente": "cebola picada", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "tomate", "quantidade": "1/2" },
+        { "ingrediente": "extrato de tomate", "quantidade": "1/2 lata" },
+        { "ingrediente": "creme de leite", "quantidade": "1 caixa" },
+        { "ingrediente": "muçarela", "quantidade": "400 g" },
+        { "ingrediente": "queijo ralado", "quantidade": "a gosto" }
+      ],
+      "modo de preparo": "Prepare a massa batendo os ingredientes no liquidificador. Recheie com carne moída e enrole as panquecas."
+    },
+    {
+      "nome": "Salada de Macarrão com Atum",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "macarrão parafuso", "quantidade": "250 g" },
+        { "ingrediente": "cebola", "quantidade": "1/2" },
+        { "ingrediente": "tomates", "quantidade": "2" },
+        { "ingrediente": "milho verde", "quantidade": "1 lata" },
+        { "ingrediente": "atum ralado", "quantidade": "2 latas" },
+        { "ingrediente": "mostarda", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "maionese", "quantidade": "1 xícara" },
+        { "ingrediente": "sal", "quantidade": "a gosto" },
+        { "ingrediente": "pimenta-do-reino", "quantidade": "a gosto" },
+        { "ingrediente": "cheiro verde", "quantidade": "a gosto" }
+      ],
+      "modo de preparo": "Misture os ingredientes e leve à geladeira por 1 hora e meia."
+    },
+    {
+      "nome": "Torta de Liquidificador",
+      "tempo de preparo": "35 minutos",
+      "ingredientes": [
+        { "ingrediente": "ovos", "quantidade": "1" },
+        { "ingrediente": "farinha de trigo", "quantidade": "6 colheres (sopa)" },
+        { "ingrediente": "queijo ralado", "quantidade": "5 colheres (sopa)" },
+        { "ingrediente": "orégano", "quantidade": "1 pitada" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (sobremesa)" },
+        { "ingrediente": "cebola", "quantidade": "1/2" },
+        { "ingrediente": "leite", "quantidade": "1 xícara (chá)" },
+        { "ingrediente": "óleo", "quantidade": "1/2 xícara (chá)" },
+        { "ingrediente": "sal", "quantidade": "1 pitada" }
+      ],
+      "modo de preparo": "Bata todos os ingredientes no liquidificador e asse com o recheio de sua escolha."
+    },
+    {
+      "nome": "Bolinho de Chuva",
+      "tempo de preparo": "30 minutos",
+      "ingredientes": [
+        { "ingrediente": "ovos", "quantidade": "2" },
+        { "ingrediente": "açúcar", "quantidade": "2 colheres (sopa)" },
+        { "ingrediente": "leite", "quantidade": "1 xícara (chá)" },
+        { "ingrediente": "farinha de trigo", "quantidade": "2 e 1/2 xícaras (chá)" },
+        { "ingrediente": "fermento em pó", "quantidade": "1 colher (sopa)" },
+        { "ingrediente": "açúcar", "quantidade": "3 colheres (sopa)" },
+        { "ingrediente": "canela", "quantidade": "1 colher (chá)" }
+      ],
+      "modo de preparo": "Misture todos os ingredientes, frite e polvilhe com açúcar e canela."
+    }
+  ]
+}
