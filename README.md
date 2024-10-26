@@ -27,6 +27,22 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   - Webpack
   - Babel
 
+## Como utilizar
+
+Para rodar o projeto localmente siga os seguintes passos:
+
+- Copie o repositorio dentro de uma pasta local com o comando 
+git clone https://github.com/Luhnari/minha-despensa.git
+
+- Dentro do terminal do Vs Code digite:
+`npm i`
+
+- Apos a instalação dos componentes rode o comando:
+`npm run start`
+
+Espere abrir localmente no seu navegador
+
+
 ## Estrutura do Projeto
 
 ```bash

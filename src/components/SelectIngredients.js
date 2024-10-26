@@ -7,6 +7,7 @@ const SelectIngredients = ({ setCompatibleRecipes, setAlmostThereRecipes }) => {
   const [input, setInput] = useState('');
   const [selectedIngredients, setSelectedIngredients] = useState([]);
   const [matchingIngredients, setMatchingIngredients] = useState([]);
+  const [showNoIngredientsMessage, setShowNoIngredientsMessage] = useState(false);
 
   useEffect(() => {
     if (input) {
@@ -35,6 +36,13 @@ const SelectIngredients = ({ setCompatibleRecipes, setAlmostThereRecipes }) => {
   };
 
   const handleFindRecipes = () => {
+    if (selectedIngredients.length === 0) {
+      setShowNoIngredientsMessage(true);
+      return;
+    }
+
+    setShowNoIngredientsMessage(false);
+
     const compatible = [];
     const almostThere = [];
 
@@ -83,6 +91,10 @@ const SelectIngredients = ({ setCompatibleRecipes, setAlmostThereRecipes }) => {
             </div>
           ))}
         </div>
+
+        {showNoIngredientsMessage && (
+          <p className="no-ingredients-message">Nenhum ingrediente selecionado.</p>
+        )}
 
         <button onClick={handleFindRecipes}>Ache sua Receita</button>
       </div>
